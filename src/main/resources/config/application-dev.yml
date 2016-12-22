@@ -24,7 +24,7 @@ spring:
         serialization.indent_output: true
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
-        url: jdbc:postgresql://localhost:5432/jhipster
+        url: jdbc:postgresql://localhost:5432/jhipster2
         name:
         username: jhipster
         password: jhipster
